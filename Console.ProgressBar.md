@@ -1,3 +1,6 @@
+Console Progress Bar Example
+
+```
 class Program
 	{
 		const char _block = '■';
@@ -37,3 +40,4 @@ class Program
 			Console.Write("] {0,3:##0}%", percent);
 		}
 	}
+```
